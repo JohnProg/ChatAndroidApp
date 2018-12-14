@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "563413786693",
+    "firebase_url": "https://webuimessenger.firebaseio.com",
+    "project_id": "webuimessenger",
+    "storage_bucket": "webuimessenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563413786693:android:41856a7039b035a0",
+        "android_client_info": {
+          "package_name": "com.tectime.johnpaul.webuimessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563413786693-nmjr6d375upbp5s3olqgklot378ievdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Vh1l5vdfHIXmTUhAhD03v6iPxo8RJHI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
